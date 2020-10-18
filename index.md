@@ -1,9 +1,12 @@
-
+---
 title: "Assignment Week-1"
 author: "Sena Kalemci"
 date: "`r Sys.Date()`"
 output: html_document
+---
+```{r}
 
+```
 
 # About me
 I graduated from Cukurova University Endustrial Engineering Department in 2016.  
@@ -25,8 +28,3 @@ One more thing about me, I have a cat and I love it so much!
 knitr::opts_chunk$set(echo = TRUE)
 library(readr)
 ```
-
-
-
-
-
