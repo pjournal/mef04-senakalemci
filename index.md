@@ -1,9 +1,9 @@
----
+
 title: "Assignment Week-1"
 author: "Sena Kalemci"
 date: "`r Sys.Date()`"
-output: htmş_document
----
+output: html_document
+
 
 # About me
 I graduated from Cukurova University Endustrial Engineering Department in 2016.  
