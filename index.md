@@ -2,7 +2,7 @@
 title: "Assignment Week-1"
 author: "Sena Kalemci"
 date: "`r Sys.Date()`"
-output: html_document
+output: htmş_document
 ---
 
 # About me
