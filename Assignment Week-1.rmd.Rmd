@@ -1,0 +1,34 @@
+---
+title: "Assignment Week-1"
+author: "Sena Kalemci"
+date: "`r Sys.Date()`"
+output: html_document
+---
+```{r}
+
+```
+
+# About me
+I graduated from Cukurova University Endustrial Engineering Department in 2016.  
+I'm working at Temsa After Sales Services Department as Spare Parts Planning Specialist for 4 years.
+I do work on such as, demand predictive and logistic centers' stock planning on supply chain. Generally, I use excel and sap while doing my analysis.
+I am interested in ML- Big Data and also psychology and cognitive behavioral therapy.
+
+First of all, I want to improve my vision by improving my existing talents and adding new ones.
+In the long term, I dream of working on research and products used ML-AI tech and psychology science.
+
+[For more information about me, please visit my linkedin account!](https://www.linkedin.com/in/sena-kalemci/)
+
+One more thing about me, I have a cat and I love it so much!
+
+![Çakıl(2)/Furry/Lethargic/Sweet](C:\Users\SKALEMCI\Desktop\images-cakil.png.JPG)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+```
+
+
+
+
